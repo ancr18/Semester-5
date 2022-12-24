@@ -1,0 +1,22 @@
+topik : aplikasi mobile
+tema  : penjualan barang bekas
+judul : pengembangan aplikasi penjualan barang bekas (rongsokan) berbasis mobile
+pengembangan aplikasi bank sampah "baSampah" berbasis mobile untuk meningkatkan UMKM kota Palu
+
+merapikan tulisan pada sebuah skripsi 
+latar belakang 
+rumusan masalah
+batasan masalah
+tujuan penelitian dibuat dan dijawab di manfaat
+manfaat penelitian
+
+
+
+BAB 1
+pendahuluan 
+latar belakang 
+rumusan masalah
+batasan masalah 
+tujuan 
+manfaat
+kerangka berpikir  = identifikasi masalah. solusi. implementasi=perancangan, koding, testing. hasil
